@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 80" width="300" height="80">
+  <defs>
+    <linearGradient id="goldGradWhite" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F3E5AB"/>
+      <stop offset="50%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#C59B27"/>
+    </linearGradient>
+  </defs>
+  <!-- Emblem Circle -->
+  <circle cx="40" cy="40" r="32" fill="#7A1F1F" stroke="url(#goldGradWhite)" stroke-width="2.5"/>
+  <!-- Decorative Mandala Ring -->
+  <circle cx="40" cy="40" r="26" fill="none" stroke="url(#goldGradWhite)" stroke-width="1" stroke-dasharray="2,3"/>
+  <!-- Royalty Crown / Mandala Center icon -->
+  <path d="M 40 22 L 45 32 L 53 28 L 48 38 L 54 46 L 40 43 L 26 46 L 32 38 L 27 28 L 35 32 Z" fill="url(#goldGradWhite)"/>
+  <!-- Royal Paisley Accent -->
+  <circle cx="40" cy="40" r="3" fill="#FFFFFF"/>
+  
+  <!-- Text Brand -->
+  <text x="88" y="44" font-family="'Playfair Display', Georgia, 'Times New Roman', serif" font-size="28" font-weight="700" letter-spacing="3" fill="#FFFFFF">RESTAURANT</text>
+  <text x="89" y="60" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="9" font-weight="600" letter-spacing="6" fill="#D4AF37">AUTHENTIC INDIAN FINE DINING</text>
+</svg>
